@@ -1,0 +1,18 @@
+﻿<Window x:Class="Kinect4.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Kinect4"
+        mc:Ignorable="d"
+        Title="Kinect Face Detection" Height="650.223" Width="953.239" FontSize="20" ResizeMode="CanMinimize">
+    <Grid Margin="0,0,-6,-109" HorizontalAlignment="Left" Width="953" Height="721" VerticalAlignment="Bottom">
+        <Image x:Name="FaceImage" HorizontalAlignment="Left" Height="417" Margin="0" VerticalAlignment="Top" Width="758"/>
+        <Button x:Name="Kinect" Content="Kinect" Click="Kinect_Click" Height="44" VerticalAlignment="Bottom" HorizontalAlignment="Left" Width="115" Margin="786,0,0,622"/>
+        <Button x:Name="Save" Content="Save" HorizontalAlignment="Left" Margin="786,134,0,0" VerticalAlignment="Top" Width="115" Click="Save_Click" Height="44"/>
+        <Button x:Name="Browse" Content="Browse" HorizontalAlignment="Left" Margin="786,206,0,0" VerticalAlignment="Top" Width="115" Click="Browse_Click" Height="44"/>
+        <Button x:Name="Detect" Content="Detect" HorizontalAlignment="Left" Margin="786,278,0,0" VerticalAlignment="Top" Width="115" Click="Detect_Click" Height="44"/>
+        <TextBlock x:Name="Result" HorizontalAlignment="Left" Margin="0,422,0,0" TextWrapping="Wrap" Text="TextBlock" VerticalAlignment="Top" FontSize="28" Width="692" Height="186"/>
+
+    </Grid>
+</Window>

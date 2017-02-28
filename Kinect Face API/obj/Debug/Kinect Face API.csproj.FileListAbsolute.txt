@@ -1,0 +1,19 @@
+d:\documents\visual studio 2015\Projects\Kinect Face API\Kinect Face API\bin\Debug\Kinect Face API.exe.config
+D:\Documents\Visual Studio 2015\Projects\Kinect Face API\Kinect Face API\bin\Debug\Kinect Face API.exe
+D:\Documents\Visual Studio 2015\Projects\Kinect Face API\Kinect Face API\bin\Debug\Kinect Face API.pdb
+D:\Documents\Visual Studio 2015\Projects\Kinect Face API\Kinect Face API\bin\Debug\Microsoft.Kinect.dll
+D:\Documents\Visual Studio 2015\Projects\Kinect Face API\Kinect Face API\bin\Debug\Microsoft.ProjectOxford.Face.dll
+D:\Documents\Visual Studio 2015\Projects\Kinect Face API\Kinect Face API\bin\Debug\Microsoft.Kinect.xml
+D:\Documents\Visual Studio 2015\Projects\Kinect Face API\Kinect Face API\obj\Debug\MainWindow.g.cs
+D:\Documents\Visual Studio 2015\Projects\Kinect Face API\Kinect Face API\obj\Debug\App.g.cs
+D:\Documents\Visual Studio 2015\Projects\Kinect Face API\Kinect Face API\obj\Debug\Kinect Face API_MarkupCompile.cache
+D:\Documents\Visual Studio 2015\Projects\Kinect Face API\Kinect Face API\obj\Debug\Kinect Face API_MarkupCompile.lref
+D:\Documents\Visual Studio 2015\Projects\Kinect Face API\Kinect Face API\obj\Debug\MainWindow.baml
+D:\Documents\Visual Studio 2015\Projects\Kinect Face API\Kinect Face API\obj\Debug\Kinect Face API.g.resources
+D:\Documents\Visual Studio 2015\Projects\Kinect Face API\Kinect Face API\obj\Debug\Kinect_Face_API.Properties.Resources.resources
+D:\Documents\Visual Studio 2015\Projects\Kinect Face API\Kinect Face API\obj\Debug\Kinect Face API.csproj.GenerateResource.Cache
+D:\Documents\Visual Studio 2015\Projects\Kinect Face API\Kinect Face API\obj\Debug\Kinect Face API.exe
+D:\Documents\Visual Studio 2015\Projects\Kinect Face API\Kinect Face API\obj\Debug\Kinect Face API.pdb
+D:\Documents\Visual Studio 2015\Projects\Kinect Face API\Kinect Face API\bin\Debug\Newtonsoft.Json.dll
+D:\Documents\Visual Studio 2015\Projects\Kinect Face API\Kinect Face API\bin\Debug\Newtonsoft.Json.xml
+D:\Documents\Visual Studio 2015\Projects\Kinect Face API\Kinect Face API\obj\Debug\Kinect Face API.csprojResolveAssemblyReference.cache
