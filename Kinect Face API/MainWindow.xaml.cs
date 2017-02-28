@@ -235,7 +235,7 @@ namespace Kinect4
                     {
                         drawingContext.DrawRectangle(
                             Brushes.Transparent,
-                            new Pen(Brushes.Gold, 2),
+                            new Pen(Brushes.Gold, 5),   //微笑最高
                             new Rect(
                                 (faceRect.Left - 3) * resizeFactor,
                                 (faceRect.Top - 3) * resizeFactor,
@@ -248,7 +248,7 @@ namespace Kinect4
                     {
                         drawingContext.DrawRectangle(
                             Brushes.Transparent,
-                            new Pen(Brushes.Silver, 2),
+                            new Pen(Brushes.Silver, 5),     //最年輕
                             new Rect(
                                 (faceRect.Left - 6) * resizeFactor,
                                 (faceRect.Top - 6) * resizeFactor,
@@ -261,7 +261,7 @@ namespace Kinect4
                     {
                         drawingContext.DrawRectangle(
                             Brushes.Transparent,
-                            new Pen(Brushes.Black, 2),
+                            new Pen(Brushes.Black, 5),      //最老
                             new Rect(
                                 (faceRect.Left - 9) * resizeFactor,
                                 (faceRect.Top - 9) * resizeFactor,
@@ -278,7 +278,7 @@ namespace Kinect4
                     {
                         drawingContext.DrawRectangle(
                             Brushes.Transparent,
-                            new Pen(Brushes.Blue, 2),
+                            new Pen(Brushes.Blue, 5),   //男，成年
                             new Rect(
                                 faceRect.Left * resizeFactor,
                                 faceRect.Top * resizeFactor,
@@ -291,7 +291,7 @@ namespace Kinect4
                     {
                         drawingContext.DrawRectangle(
                             Brushes.Transparent,
-                            new Pen(Brushes.Green, 2),
+                            new Pen(Brushes.Green, 5),      //男，未成年
                             new Rect(
                                 faceRect.Left * resizeFactor,
                                 faceRect.Top * resizeFactor,
@@ -304,7 +304,7 @@ namespace Kinect4
                     {
                         drawingContext.DrawRectangle(
                         Brushes.Transparent,
-                            new Pen(Brushes.Red, 2),
+                            new Pen(Brushes.Red, 5),    //女，成年
                             new Rect(
                                 faceRect.Left * resizeFactor,
                                 faceRect.Top * resizeFactor,
@@ -317,7 +317,7 @@ namespace Kinect4
                     {
                         drawingContext.DrawRectangle(
                         Brushes.Transparent,
-                        new Pen(Brushes.Red, 2),
+                        new Pen(Brushes.Red, 5),    //女，未成年
                         new Rect(
                             faceRect.Left * resizeFactor,
                             faceRect.Top * resizeFactor,
