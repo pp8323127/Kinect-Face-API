@@ -138,6 +138,7 @@ namespace Kinect4
                 return;
             }
             filePath = openDlg.FileName;
+            MessageBox.Show(filePath);
             //選定欲偵測人臉圖檔後,停止Kinect傳送影像
             sensor.Close();
             //FaceImage秀出欲偵測人臉圖檔之影像
