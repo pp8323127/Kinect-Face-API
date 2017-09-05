@@ -37,7 +37,7 @@ namespace Kinect4
 
         //使用 subscription key
         private readonly IFaceServiceClient faceServiceClent =
-            new FaceServiceClient("4b84a43021ee4799bb07ef07a1fe91f5");
+            new FaceServiceClient("fb30994d6605403b8b1f0e3840788dee", "https://westcentralus.api.cognitive.microsoft.com/face/v1.0");
 
 
         public MainWindow()

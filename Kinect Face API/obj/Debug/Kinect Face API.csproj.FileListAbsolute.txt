@@ -36,3 +36,28 @@ D:\Documents\Visual Studio 2015\Projects\Kinect-Face-API\Kinect Face API\obj\Deb
 D:\Documents\Visual Studio 2015\Projects\Kinect-Face-API\Kinect Face API\obj\Debug\Kinect Face API.g.resources
 D:\Documents\Visual Studio 2015\Projects\Kinect-Face-API\Kinect Face API\obj\Debug\Kinect_Face_API.Properties.Resources.resources
 D:\Documents\Visual Studio 2015\Projects\Kinect-Face-API\Kinect Face API\obj\Debug\Kinect Face API.csproj.GenerateResource.Cache
+C:\Users\MO\Documents\Visual Studio 2015\Projects\Kinect-Face-API\Kinect Face API\bin\Debug\Kinect Face API.exe.config
+C:\Users\MO\Documents\Visual Studio 2015\Projects\Kinect-Face-API\Kinect Face API\obj\Debug\Kinect Face API.exe
+C:\Users\MO\Documents\Visual Studio 2015\Projects\Kinect-Face-API\Kinect Face API\obj\Debug\Kinect Face API.pdb
+C:\Users\MO\Documents\Visual Studio 2015\Projects\Kinect-Face-API\Kinect Face API\bin\Debug\Kinect Face API.exe
+C:\Users\MO\Documents\Visual Studio 2015\Projects\Kinect-Face-API\Kinect Face API\bin\Debug\Kinect Face API.pdb
+C:\Users\MO\Documents\Visual Studio 2015\Projects\Kinect-Face-API\Kinect Face API\bin\Debug\Microsoft.Kinect.dll
+C:\Users\MO\Documents\Visual Studio 2015\Projects\Kinect-Face-API\Kinect Face API\bin\Debug\Microsoft.ProjectOxford.Common.dll
+C:\Users\MO\Documents\Visual Studio 2015\Projects\Kinect-Face-API\Kinect Face API\bin\Debug\Microsoft.ProjectOxford.Face.dll
+C:\Users\MO\Documents\Visual Studio 2015\Projects\Kinect-Face-API\Kinect Face API\bin\Debug\Newtonsoft.Json.dll
+C:\Users\MO\Documents\Visual Studio 2015\Projects\Kinect-Face-API\Kinect Face API\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\MO\Documents\Visual Studio 2015\Projects\Kinect-Face-API\Kinect Face API\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\MO\Documents\Visual Studio 2015\Projects\Kinect-Face-API\Kinect Face API\bin\Debug\Microsoft.Kinect.xml
+C:\Users\MO\Documents\Visual Studio 2015\Projects\Kinect-Face-API\Kinect Face API\bin\Debug\Newtonsoft.Json.xml
+C:\Users\MO\Documents\Visual Studio 2015\Projects\Kinect-Face-API\Kinect Face API\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\MO\Documents\Visual Studio 2015\Projects\Kinect-Face-API\Kinect Face API\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\MO\Documents\Visual Studio 2015\Projects\Kinect-Face-API\Kinect Face API\obj\Debug\Kinect Face API.csproj.App.config
+C:\Users\MO\Documents\Visual Studio 2015\Projects\Kinect-Face-API\Kinect Face API\obj\Debug\Kinect Face API.csprojResolveAssemblyReference.cache
+C:\Users\MO\Documents\Visual Studio 2015\Projects\Kinect-Face-API\Kinect Face API\obj\Debug\MainWindow.g.cs
+C:\Users\MO\Documents\Visual Studio 2015\Projects\Kinect-Face-API\Kinect Face API\obj\Debug\App.g.cs
+C:\Users\MO\Documents\Visual Studio 2015\Projects\Kinect-Face-API\Kinect Face API\obj\Debug\Kinect Face API_MarkupCompile.cache
+C:\Users\MO\Documents\Visual Studio 2015\Projects\Kinect-Face-API\Kinect Face API\obj\Debug\Kinect Face API_MarkupCompile.lref
+C:\Users\MO\Documents\Visual Studio 2015\Projects\Kinect-Face-API\Kinect Face API\obj\Debug\MainWindow.baml
+C:\Users\MO\Documents\Visual Studio 2015\Projects\Kinect-Face-API\Kinect Face API\obj\Debug\Kinect Face API.g.resources
+C:\Users\MO\Documents\Visual Studio 2015\Projects\Kinect-Face-API\Kinect Face API\obj\Debug\Kinect_Face_API.Properties.Resources.resources
+C:\Users\MO\Documents\Visual Studio 2015\Projects\Kinect-Face-API\Kinect Face API\obj\Debug\Kinect Face API.csproj.GenerateResource.Cache
